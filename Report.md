@@ -171,10 +171,6 @@ n_estimators=1000,
  scale_pos_weight=1,
  seed=27
 
-`Testing results for the 3 metrics listed above`
-
-![Xgboost test results](assets/xgboost_test.png)
-
 `Training results for the 3 metrics listed above`
 
 ![Xgboost train results](assets/xgboost_train.png)
